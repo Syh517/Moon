@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pyts
+tsia
+pandas
+tqdm
+pyarrow

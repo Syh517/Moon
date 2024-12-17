@@ -1,0 +1,14 @@
+{
+    // "editor.codeActionsOnSave": {
+
+    // }
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "/home/yyy/moon"
+    },
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "/home/yyy/moon"
+    },
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "/home/yyy/moon"
+    }
+}
