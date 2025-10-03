@@ -1,2 +1,7 @@
 /.vscode/
-/ServerMachineDataset/*
+/ServerMachineDataset/interpretation_label/
+/ServerMachineDataset/save/
+/ServerMachineDataset/test/
+/ServerMachineDataset/test_label/
+/ServerMachineDataset/train/
+/ServerMachineDataset/LICENSE
