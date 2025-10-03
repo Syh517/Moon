@@ -6,7 +6,7 @@ Moon adopts the **MV-MTF** technique, which converts numerical multivariate time
 
 ## Get started
 ### Get Data
-SMD (Server Machine Dataset) is in folder ServerMachineDataset, it can be downloaded from [here](https://github.com/NetManAIOps/OmniAnomaly/tree/master/ServerMachineDataset).
+ Put SMD (Server Machine Dataset) in folder ***./ServerMachineDataset***. SMD can be downloaded from [here](https://github.com/NetManAIOps/OmniAnomaly/tree/master/ServerMachineDataset).
 
 
 ### Install dependencies (with python 3.8)
